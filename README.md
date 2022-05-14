@@ -14,11 +14,3 @@ So, if you're working on a login page, please make a separate branch called `log
 
 If the development of that particular feature is done, then, please send a PR to the `test` branch.
 We'll figure when the `test` branch is ready to be merged into the `main` branch, and we'll proceed ahead with it, once it is finalized that it is good to go.
-
-## Contributors / Team Members
-This project is to be contributed to by the following team members,
-- G V Datta Adithya
-- Shanmukh Srinivas
-- Hariprasad K K
-- N. Sai Vijay
-- M Sai Uday Kiran Kumar
